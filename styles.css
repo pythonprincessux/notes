@@ -1,4 +1,9 @@
 body {
   font-family: Arial, sans-serif;
   padding: 2rem;
+  background-color: #f0f4ff;
+}
+
+h1 {
+  color: #4b2aad;
 }
